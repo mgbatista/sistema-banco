@@ -1,0 +1,7 @@
+C:\Users\maiar\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\ExercicioBanco.exe.config
+C:\Users\maiar\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\ExercicioBanco.exe
+C:\Users\maiar\source\repos\ExercicioBanco\ExercicioBanco\bin\Debug\ExercicioBanco.pdb
+C:\Users\maiar\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.csprojAssemblyReference.cache
+C:\Users\maiar\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\maiar\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.exe
+C:\Users\maiar\source\repos\ExercicioBanco\ExercicioBanco\obj\Debug\ExercicioBanco.pdb
